@@ -17,4 +17,6 @@ creating a new branch is quick.
 fenge 4
 
 Creating a new branch is quick & simple.
-reating a new branch is quick AND simple.
+reating a new branch is quick AND 
+
+simple.
