@@ -20,3 +20,5 @@ Creating a new branch is quick & simple.
 reating a new branch is quick AND 
 
 simple.
+
+merge bug and dev test
