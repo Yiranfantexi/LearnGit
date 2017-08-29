@@ -24,4 +24,4 @@ fix bug 1 issue-1
 fix bug 2
 
 
-GIT 2 change pm
+GIT 2 change pm pm 
