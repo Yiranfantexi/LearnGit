@@ -21,6 +21,11 @@ Creating a new branch is quick & simple.
 20180829 dev branch change
 
 fix bug 1 issue-1
+<<<<<<< HEAD
 fix bug 2
 
 git push
+=======
+
+
+>>>>>>> dev
