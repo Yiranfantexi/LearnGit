@@ -29,3 +29,4 @@ merge bug and dev test
 20180829 dev branch change
 
 fix bug 1 issue-1
+fix bug 2
