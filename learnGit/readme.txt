@@ -8,7 +8,7 @@ fen ge 1
 
 manage change
 
-fen ge 2
+shanchufenge 2
 
 
 fen ge 3 github push
@@ -17,14 +17,6 @@ creating a new branch is quick.
 fenge 4
 
 Creating a new branch is quick & simple.
-reating a new branch is quick AND 
-
-simple.
-bugbugbug
-merge bug and dev test
-
-he bing 
-merge bug and dev test
 
 20180829 dev branch change
 
