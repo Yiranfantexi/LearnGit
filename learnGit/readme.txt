@@ -27,5 +27,14 @@ fix bug 2
 git push
 =======
 
+<<<<<<< HEAD
 
 >>>>>>> dev
+=======
+GIT 2 change pm pm 
+=======
+
+git 1 change pm  pm pm 
+>>>>>>> 7da51efb4ab453fc8ffc2f1958cf2f7cfd38cb1a
+>>>>>>> dev2
+222
