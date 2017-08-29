@@ -20,7 +20,11 @@ Creating a new branch is quick & simple.
 reating a new branch is quick AND 
 
 simple.
-
 bugbugbug
 merge bug and dev test
+
+he bing 
+merge bug and dev test
+
+20180829 dev branch change
 
