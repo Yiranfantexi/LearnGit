@@ -23,6 +23,5 @@ Creating a new branch is quick & simple.
 fix bug 1 issue-1
 fix bug 2
 
-sddd push:
 
-GIT 2 change
+GIT 2 change pm
